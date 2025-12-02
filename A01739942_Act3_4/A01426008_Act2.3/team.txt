@@ -1,0 +1,43 @@
+ Autores:
+ [Ayleen Osnaya Ortega] - [A01426008]
+ [José Luis Gutiérrez Quintero] - [A01739337]
+ [Santiago Amir Rodríguez González] - [A01739942]
+ Fecha: 21/09/2025
+ 
+
+Índice:
+1. ESTRUCTURA PRINCIPAL
+2. FUNCIONES AUXILIARES:
+	2.1 months_int
+	2.2 tokenizer
+	2.3 splitIp
+	2.4 TotalTime
+	2.5 lessEntry
+
+3. QUICK SORT 
+4. RANGE SEARCH
+5. MAIN
+
+
+
+División de trabajo:
+[Ayleen Osnaya Ortega] - [A01426008]:
+2. FUNCIONES AUXILIARES:
+	2.1 months_int
+	2.4 TotalTime
+5. MAIN:
+	linea 230-252
+
+[José Luis Gutiérrez Quintero] - [A01739337]:
+3. QUICK SORT 
+4. RANGE SEARCH
+
+[Santiago Amir Rodríguez González] - [A01739942]:
+1. ESTRUCTURA PRINCIPAL
+2. FUNCIONES AUXILIARES:
+	2.2 tokenizer
+	2.3 splitIp
+	2.5 lessEntry
+5. MAIN:
+	linea 224-230 y 254-290
+

@@ -1,0 +1,35 @@
+Autores:
+[Ayleen Osnaya Ortega] - [A01426008]
+[José Luis Gutiérrez Quintero] - [A01739337]
+[Santiago Amir Rodríguez González] - [A01739942]
+
+Fecha: 21/11/2025
+
+Índice:
+1. ESTRUCTURAS DE DATOS
+2. FUNCIONES AUXILIARES
+3. FUNCIÓN PRINCIPAL
+
+División de trabajo (Act 4.3):
+
+[Ayleen Osnaya Ortega] - [A01426008]:
+1. ESTRUCTURAS DE DATOS
+   - struct Entry
+   - struct Host
+   - struct Network
+   - Tablas hash globales
+
+[José Luis Gutiérrez Quintero] - [A01739337]:
+2. FUNCIONES AUXILIARES
+   - hashString
+   - prefixFromIP
+   - getNetworkIndex
+   - getHostIndex
+
+[Santiago Amir Rodríguez González] - [A01739942]:
+3. FUNCIÓN PRINCIPAL
+   - Inicialización de tablas
+   - Lectura y procesamiento del archivo
+   - Cálculo de redes con mayor número de hosts
+   - Cálculo de hosts con mayor número de entradas
+   - Liberación de memoria

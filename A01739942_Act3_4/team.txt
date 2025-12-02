@@ -1,0 +1,34 @@
+Autores:
+ [Ayleen Osnaya Ortega] - [A01426008]
+ [José Luis Gutiérrez Quintero] - [A01739337]
+ [Santiago Amir Rodríguez González] - [A01739942]
+ Fecha: 15/10/2025
+ 
+Índice:
+1. ESTRUCTURA PRINCIPAL
+2. FUNCIONES AUXILIARES:
+	2.1 months_int
+	2.2 tokenizer
+	2.3 splitIp
+	2.4 total_time
+	2.5 lessEntry
+	2.6 mergeSortedLists
+	2.7 mergeSortList
+	2.9 lowerBoundIP
+	2.10 upperBoundIP
+3. FUNCIÓN PRINCIPAL (main)
+
+División de trabajo:
+[Ayleen Osnaya Ortega] - [A01426008]:
+3. FUNCIÓN PRINCIPAL (main):
+	Sección 3.2: Ordenamiento de la lista (líneas 219-226)
+
+[José Luis Gutiérrez Quintero] - [A01739337]:
+3. FUNCIÓN PRINCIPAL (main):
+	Sección 3.4: Lectura de rango de IPs (líneas 236-251)
+	Sección 3.5: Búsqueda de nodos inicio y fin (líneas 253-263)
+
+[Santiago Amir Rodríguez González] - [A01739942]:
+3. FUNCIÓN PRINCIPAL (main):
+	Sección 3.3: Guardar archivo ordenado (líneas 228-234)
+	Sección 3.6: Despliegue en orden descendente (líneas 265-275)

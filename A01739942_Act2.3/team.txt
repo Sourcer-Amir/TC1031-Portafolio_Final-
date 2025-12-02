@@ -1,0 +1,37 @@
+Autores:
+[Ayleen Osnaya Ortega] - [A01426008]
+[José Luis Gutiérrez Quintero] - [A01739337]
+[Santiago Amir Rodríguez González] - [A01739942]
+Fecha: 15/10/2025
+Índice:
+
+ESTRUCTURA PRINCIPAL (cambio a lista doblemente ligada)
+FUNCIONES AUXILIARES NUEVAS:
+2.6 mergeSortedLists
+2.7 mergeSortList
+2.9 lowerBoundIP
+2.10 upperBoundIP
+MODIFICACIONES EN MAIN:
+3.2 Ordenamiento con Merge Sort
+3.3 Guardado en SortedData.txt
+3.5 Búsqueda de rango
+3.6 Despliegue descendente
+
+División de trabajo (Act 2.3):
+[Ayleen Osnaya Ortega] - [A01426008]:
+
+ESTRUCTURA PRINCIPAL
+Conversión de simple a doblemente ligada (agregar prev)
+
+[José Luis Gutiérrez Quintero] - [A01739337]:
+2. FUNCIONES AUXILIARES NUEVAS:
+2.6 mergeSortedLists
+2.7 mergeSortList
+2.9 lowerBoundIP
+2.10 upperBoundIP
+[Santiago Amir Rodríguez González] - [A01739942]:
+3. MODIFICACIONES EN MAIN:
+3.2 Ordenamiento con Merge Sort
+3.3 Guardado en SortedData.txt
+3.5 Búsqueda de rango
+3.6 Despliegue descendente por IP

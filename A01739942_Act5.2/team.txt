@@ -1,0 +1,42 @@
+Autores:
+[Ayleen Osnaya Ortega] - [A01426008]
+[José Luis Gutiérrez Quintero] - [A01739337]
+[Santiago Amir Rodríguez González] - [A01739942]
+Fecha: 29/11/2025
+
+Índice:
+1. ESTRUCTURAS DE DATOS Y TABLA HASH
+2. FUNCIONES AUXILIARES DE HASH Y BÚSQUEDA
+3. FUNCIONES DE PROCESAMIENTO DE IPs
+4. FUNCIÓN PRINCIPAL Y CONSULTAS
+
+División de trabajo (Act 5.2):
+
+[Ayleen Osnaya Ortega] - [A01426008]:
+1. ESTRUCTURAS DE DATOS Y TABLA HASH
+   - struct IPNode (lista enlazada de IPs)
+   - struct NetworkInfo (información de cada red)
+   - Tabla hash global (hashTable)
+   - Diseño e implementación de la función hash (hashFunction) con justificación completa
+   - Documentación de complejidades
+
+[José Luis Gutiérrez Quintero] - [A01739337]:
+2. FUNCIONES AUXILIARES DE HASH Y BÚSQUEDA
+   - extractNetwork (extracción de identificador de red)
+   - insertOrUpdate (inserción/actualización con Linear Probing)
+   - searchNetwork (búsqueda con Linear Probing)
+   - ipExists (verificación de IP en lista)
+   - addIP (agregar IP a lista enlazada)
+   - freeIPList (liberación de memoria)
+
+[Santiago Amir Rodríguez González] - [A01739942]:
+3. FUNCIONES DE PROCESAMIENTO DE IPs Y FUNCIÓN PRINCIPAL
+   - parseIPOctets (conversión de IP a octetos)
+   - compareIPs (comparación numérica de IPs)
+   - sortIPList (ordenamiento de lista enlazada con Insertion Sort)
+   - Función main completa:
+     * Inicialización de tabla hash
+     * Lectura y procesamiento de bitacora.txt
+     * Procesamiento de consultas
+     * Impresión de resultados
+     * Liberación de memoria
